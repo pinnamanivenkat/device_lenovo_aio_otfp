@@ -46,7 +46,7 @@ endif
 PRODUCT_COPY_FILES += \
 $(LOCAL_KERNEL):kernel
 
-include $(LOCAL_PATH)/product/*.mk
+include $(LOCAL_PATH)/dev_extd/*.mk
 
 
 ADDITIONAL_DEFAULT_PROPERTIES += \
