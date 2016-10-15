@@ -17,10 +17,13 @@
 
 #Device make file for aio_otfp(K3 Note)
 
+
+$(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 #Short cut to call device tree path
 LOCAL_PATH := device/lenovo/aio_otfp
 
 #To make vendor folder visible
+$(call inherit-product, device/lenovo/aio_otfp/vendor/copyfiles.mk
 $(call inherit-product, vendor/lenovo/aio_otfp/aio_otfp-vendor-blobs.mk)
 
 #To call overlay folder
@@ -45,6 +48,9 @@ endif
 #To copy the kernel
 PRODUCT_COPY_FILES += \
 $(LOCAL_KERNEL):kernel
+
+PRODUCT_PACKAGES += \
+libxlog
 
 include $(LOCAL_PATH)/dev_extd/*.mk
 
