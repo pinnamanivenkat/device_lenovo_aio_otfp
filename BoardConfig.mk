@@ -3,8 +3,6 @@
 #Short cut to point files in device tree
 LOCAL_PATH := device/lenovo/aio_otfp
 
-$(call inherit-product, device/lenovo/aio_otfp/ProjectConfig.mk)
-
 #point out board config vendor file
 -include vendor/lenovo/aio_otfp/BoardConfigVendor.mk
 
