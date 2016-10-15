@@ -23,7 +23,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 LOCAL_PATH := device/lenovo/aio_otfp
 
 #To make vendor folder visible
-$(call inherit-product, device/lenovo/aio_otfp/vendor/copyfiles.mk
+$(call inherit-product, device/lenovo/aio_otfp/vendor/copyfiles.mk)
 $(call inherit-product, vendor/lenovo/aio_otfp/aio_otfp-vendor-blobs.mk)
 
 #To call overlay folder
