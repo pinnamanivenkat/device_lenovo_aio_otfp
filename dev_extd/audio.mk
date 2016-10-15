@@ -22,6 +22,10 @@ PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/configs/audio/audio_policy.conf:system/etc/audio_policy.conf \
 	$(LOCAL_PATH)/configs/audio_param/AudioParamOptions.xml:system/etc/audio_param/AudioParamOptions.xml
 
+#Evadu Copy Cheyakandi 
+#Idhi naa work 
+
+
 
 
 
