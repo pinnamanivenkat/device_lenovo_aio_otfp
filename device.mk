@@ -48,15 +48,6 @@ $(LOCAL_KERNEL):kernel
 
 include $(LOCAL_PATH)/dev_extd/*.mk
 
-
-ADDITIONAL_DEFAULT_PROPERTIES += \
-	ro.secure=0 \
-	ro.allow.mock.location=1 \
-	ro.debuggable=1 \
-	ro.adb.secure=0 \
-	persist.service.acm.enable=0 \
-ro.oem_unlock_supported=1
-
 # Dalvik heap configurations
 $(call inherit-product-if-exists, frameworks/native/build/phone-xhdpi-2048-dalvik-heap.mk)
 
