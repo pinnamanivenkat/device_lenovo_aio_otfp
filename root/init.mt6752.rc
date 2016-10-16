@@ -2,8 +2,6 @@
 
 import init.project.rc
 import /FWUpgradeInit.rc
-import init.xlog.rc
-import init.aee.rc
 import init.fon.rc
 import init.volte.rc
 import init.mal.rc
@@ -13,7 +11,6 @@ import init.common_svc.rc
 
 # init.modem.rc must be the LAST rc file because vold.post_fs_data_done is set in it
 import init.modem.rc
-import init.lenovo.encfs.rc
 # *** DO NOT import the new rc file after this line ***
 
 on early-init

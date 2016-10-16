@@ -1,11 +1,9 @@
-<h1>Device Tree for K3 Note [WIP]</h1>
+<h1>Device Tree for K3 Note</h1>
 <br>
 <h3> What Works: </h3>
-	Wifi
-	and many others
+	Not yet tested!
 <h3> What doesnt work</h3>
-	RIL (unknown Baseband)
-	Bluetooth
+	Not yet tested!
 <h2>Special thanks to :</h2>
 	Pinnamani Venkat (me) 
 	Sandeep Sethi
