@@ -14,8 +14,8 @@ PRODUCT_PACKAGES += \
 
 #permissions
 PRODUCT_COPY_FILES += \
-	$(LOCAL_PATH)/configs/media/media_codecs.xml:system/etc/media_codecs.xml \
-    $(LOCAL_PATH)/configs/media/media_codecs.xml:system/etc/permissions/media_codecs.xml \
+	$(LOCAL_PATH)/configs/mediacodecs/media_codecs.xml:system/etc/media_codecs.xml \
+    $(LOCAL_PATH)/configs/mediacodecs/media_codecs.xml:system/etc/permissions/media_codecs.xml \
 	$(LOCAL_PATH)/configs/audio/audio_device.xml:system/etc/audio_device.xml \
 	$(LOCAL_PATH)/configs/audio/audio_effects.conf:system/etc/audio_effects.conf \
 	$(LOCAL_PATH)/configs/audio/audio_em.xml:system/etc/audio_em.xml \
