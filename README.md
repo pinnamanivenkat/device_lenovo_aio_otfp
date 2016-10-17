@@ -6,5 +6,5 @@
 	Not yet tested!
 <h2>Special thanks to :</h2>
 	Pinnamani Venkat (me) 
-	Sandeep Sethi
+	adeveloper79 (Sandeep Sethi)
 	Lbule
