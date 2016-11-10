@@ -8,8 +8,6 @@ LOCAL_PATH := device/lenovo/aio_otfp
 
 TARGET_SPECIFIC_HEADER_PATH := $(LOCAL_PATH)/include
 
-TARGET_PROVIDES_INIT_RC := true
-
 #Tell it is 64 bit device
 MTK_K64_SUPPORT := yes
 
