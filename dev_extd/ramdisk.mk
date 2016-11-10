@@ -7,5 +7,4 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/root/init.mt6752.rc:root/init.mt6752.rc \
     $(LOCAL_PATH)/root/init.mt6752.usb.rc:root/init.mt6752.usb.rc \
     $(LOCAL_PATH)/root/init.project.rc:root/init.project.rc \
-    $(LOCAL_PATH)/root/init:root/init \
     $(LOCAL_PATH)/root/ueventd.mt6752.rc:root/ueventd.mt6752.rc
