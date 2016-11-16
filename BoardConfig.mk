@@ -10,6 +10,8 @@ TARGET_SPECIFIC_HEADER_PATH := $(LOCAL_PATH)/include
 
 TARGET_PROVIDES_INIT_RC := true
 
+BLOCK_BASED_OTA := false
+
 #Tell it is 64 bit device
 MTK_K64_SUPPORT := yes
 
