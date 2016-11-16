@@ -147,3 +147,5 @@ USE_CAMERA_STUB := true
 #sepolicy path
 BOARD_SEPOLICY_DIRS := \
         device/lenovo/aio_otfp/sepolicy
+        
+BOARD_SECCOMP_POLICY := $(LOCAL_PATH)/seccomp 
