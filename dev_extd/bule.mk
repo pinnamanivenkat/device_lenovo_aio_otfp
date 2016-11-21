@@ -20,9 +20,6 @@ COMMON_GLOBAL_CPPFLAGS += -DMTK_HARDWARE
 # Enable Minikin text layout engine (will be the default soon)
 USE_MINIKIN := true
 
-#Memory Allocation type of MALLOC( Availables = jemalloc,dlmalloc)
-MALLOC_IMPL := dlmalloc
-
 # Init
 PRODUCT_PACKAGES += bule
 
