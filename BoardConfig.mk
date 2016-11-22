@@ -8,8 +8,6 @@ LOCAL_PATH := device/lenovo/aio_otfp
 
 TARGET_SPECIFIC_HEADER_PATH := $(LOCAL_PATH)/include
 
-TARGET_PROVIDES_INIT_RC := true
-
 BLOCK_BASED_OTA := false
 
 #Tell it is 64 bit device
@@ -59,7 +57,7 @@ TARGET_KMODULES := true
 BOARD_KERNEL_BASE := 0x40078000
 BOARD_KERNEL_PAGESIZE := 2048
 BOARD_MKBOOTIMG_ARGS := --base 0x40078000 --pagesize 2048 --kernel_offset 0x00008000 --ramdisk_offset 0x03f88000 --second_offset 0x00e88000 --tags_offset 0x0df88000 --board 79507
-BOARD_CUSTOM_BOOTIMG_MK := $(LOCAL_PATH)/bootimg/bootimg.mk
+TARGET_MKIMAGE := $(LOCAL_PATH)/bootimg/mkimage
 TARGET_PREBUILT_KERNEL := $(LOCAL_PATH)/prebuilt/kernel
 BOARD_CUSTOM_BOOTIMG := true
 TARGET_MTK_KERNEL := true
@@ -152,5 +150,5 @@ TARGET_RECOVERY_PIXEL_FORMAT := "RGBA_8888"
 USE_CAMERA_STUB := true
 
 #sepolicy path
-BOARD_SEPOLICY_DIRS := \
-        device/lenovo/aio_otfp/sepolicy
+#BOARD_SEPOLICY_DIRS := \
+#        device/lenovo/aio_otfp/sepolicy
