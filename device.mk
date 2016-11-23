@@ -52,6 +52,9 @@ $(LOCAL_KERNEL):kernel
 PRODUCT_PACKAGES += \
 libxlog
 
+PRODUCT_PACKAGES += \
+libgui_shim
+
 include $(LOCAL_PATH)/dev_extd/*.mk
 
 # Dalvik heap configurations
