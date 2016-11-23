@@ -35,7 +35,7 @@ PRODUCT_AAPT_CONFIG := normal xhdpi xxhdpi
 PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 
 #Tells ota package to flash only on these devices
-TARGET_OTA_ASSERT_DEVICE := aio_otfp,5m,5M,k50-T5,K50-T5,k50-a40,k50-t5,K50-A40
+TARGET_OTA_ASSERT_DEVICE := aio_otfp,5m,5M,k50-T5,K50-T5,k50-a40,k50-t5,K50-A40,K50t5
 
 #To use prebuilt kernel
 
