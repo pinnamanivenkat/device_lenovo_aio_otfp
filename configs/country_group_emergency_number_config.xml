@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CountryGroupTable>
+    <CountryGroup GroupCode="ru" CountryISO="RU,KZ,AZ,KG,TM,UZ,TJ" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="ua" CountryISO="UA,AM,BY,MD,GE" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="ro" CountryISO="RO,HU,BG,GR,SK,SI,RS,HR,ME,CY,AL,MK,BA,KV" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="cz" CountryISO="CZ" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="tr" CountryISO="TR" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="eg" CountryISO="EG,AO,MU" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="lb" CountryISO="LB,JO,TN,MZ,LY" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="ae" CountryISO="AE,YE,IQ" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="ke" CountryISO="KE,UG,TZ,GH,BW" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="na" CountryISO="ZW,NA,ET" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="om" CountryISO="OM,QA,KW,BH" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="sa" CountryISO="SA" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="ma" CountryISO="MA" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="dz" CountryISO="DZ" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="zm" CountryISO="ZM" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="pk" CountryISO="PK" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="ng" CountryISO="NG" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="id" CountryISO="ID" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="vn" CountryISO="VN" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="my" CountryISO="MY" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="th" CountryISO="TH" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="ph" CountryISO="PH,TW" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="sg" CountryISO="SG,KH,MM,LA" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="hk" CountryISO="HK" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="in" CountryISO="IN" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="lk" CountryISO="LK,BD,NP" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="ve" CountryISO="VE" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="pe" CountryISO="PE" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="co" CountryISO="CO" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="mx" CountryISO="MX" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="cl" CountryISO="CL" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="tw" CountryISO="TW" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+    <CountryGroup GroupCode="br" CountryISO="BR" NoSIMOnly3GPPECC="0" ShowENUI="1"  InServiceECC="0" />
+</CountryGroupTable>
