@@ -15,3 +15,5 @@
  */
 
 extern "C" void _ZN7android4Rect10EMPTY_RECTE() { }
+extern "C" void _ZTVN7android15HdrCapabilitiesE() { }
+extern "C" void __pthread_gettid() { }
